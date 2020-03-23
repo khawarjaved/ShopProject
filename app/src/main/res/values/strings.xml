@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ShopProject</string>
+    <string name="edit_message">edit</string>
+    <string name="button_send">send button</string>
 </resources>
