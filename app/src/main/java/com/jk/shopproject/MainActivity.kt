@@ -10,3 +10,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+ //now create a model class
+//now create a adapter class
